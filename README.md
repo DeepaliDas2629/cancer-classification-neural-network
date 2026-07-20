@@ -96,6 +96,3 @@ jupyter notebook Breast_Cancer_Classification_with_Neural_Network.ipynb
 **Deepali Das**
 B.Tech CSE (Data Science), Gandhi Engineering College, Bhubaneswar
 AI Domain Intern, Naviotech Solution Pvt. Ltd. — June 2026 Batch
-
----
-⭐ If you found this project useful, consider giving it a star!
